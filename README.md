@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fouad Nassif</h1>
 <h3 align="center">A passionate Junior Web Developer from Lebanon</h3>
 
-<div style="text-align: center; display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
     <img alt="Coding" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 </div>
 
