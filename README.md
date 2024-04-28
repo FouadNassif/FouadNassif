@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fouad Nassif</h1>
 <h3 align="center">A passionate Junior Web Developer from Lebanon</h3>
 
-<img align="center" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<div style="text-align: center;">
+    <img alt="Coding" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fouadnassif&label=Profile%20views&color=0e75b6&style=flat" alt="fouadnassif" /> </p>
 
