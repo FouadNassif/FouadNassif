@@ -32,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fouadnassif&show_icons=true&locale=en&layout=compact" alt="fouadnassif" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fouadnassif&show_icons=true&locale=en" alt="fouadnassif" /></p>
+<p>&nbsp;<img width=400 src='https://github-readme-stats.vercel.app/api?username=fouadnassif&theme=tokyonight&show_icons=true&hide_border=true&count_private=true' /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fouadnassif&" alt="fouadnassif" /></p>
