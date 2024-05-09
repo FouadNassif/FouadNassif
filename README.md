@@ -7,9 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fouadnassif&label=Profile%20views&color=0e75b6&style=flat" alt="fouadnassif" /> </p>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" /></p>
-
-<p align="left"> <a href="https://twitter.com/f0uadnassif" target="blank"><img src="https://img.shields.io/twitter/follow/f0uadnassif?logo=twitter&style=for-the-badge" alt="f0uadnassif" /></a> </p>
+<p "> <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" /></p>
 
 - 🔭 I’m currently working on [AssetMalik](https://github.com/FouadNassif/AssetMalik)
 
