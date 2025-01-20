@@ -9,9 +9,9 @@
 
 <p "> <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" /></p>
 
-- 🔭 I’m currently working on [AssetMalik](https://github.com/FouadNassif/AssetMalik)
+- 🔭 I’m currently working on [Azzimtak](https://github.com/FouadNassif/AAZIMTAK)
 
-- 🌱 I’m currently learning **Laravel , React**
+- 🌱 I’m currently learning **Typescript , React**
 
 - 📫 How to reach me **fouadnassif2005@gmail.com**
 
