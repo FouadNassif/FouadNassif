@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fouad Nassif</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <br/>
-- 🔭 I’m currently working on [AAZIMTAK](https://aazimtakk.vercel.app/)
+- 🔭 I’m currently working on [AAZIMTAK](https://aazimtakk.vercel.app)
 
 - 🌱 I’m currently learning **Reactjs, Typescript, Nextjs**
 
